@@ -8,70 +8,66 @@ assignees: ''
 ---
 
 ---
-name: Feature Request
-about: Use this template for new features, enhancements, or tasks.
-title: "[Feature] <Your Title Here>"
-labels: enhancement
+name: Bug Report
+about: Report a reproducible bug or defect
+title: "[Bug] <Descriptive title here>"
+labels: bug
 assignees: ''
- 
+
 ---
- 
-## 📝 Description
- 
-<!-- Clearly describe the goal of this issue -->
-Describe the feature or task that needs to be implemented.
- 
+
+## 🐛 Bug Description
+
+<!-- Describe the problem. What did you expect to happen? What actually happened? -->
+
 ---
- 
-## 🎯 Acceptance Criteria
- 
-- [ ] What is expected to be completed?
-- [ ] How will success be measured?
- 
+
+## ✅ Steps to Reproduce
+
+1. Go to '...'
+2. Click on '...'
+3. See error
+
 ---
- 
+
+## 📷 Screenshots / Logs
+
+<!-- Add screenshots, stack traces, error messages, or console logs if applicable -->
+
+---
+
+## 💻 Environment
+
+| Key         | Value           |
+|-------------|-----------------|
+| OS/Device   | e.g., Windows/macOS/Linux |
+| Browser     | e.g., Chrome 125 |
+| App Version | e.g., v1.2.3    |
+| Repo/Branch | e.g., `main` or `dev` |
+
+---
+
 ## 📅 Deadline
- 
-<!-- Enter your expected deadline in YYYY-MM-DD format -->
+
+<!-- Enter expected fix-by deadline -->
 `due:YYYY-MM-DD`
- 
+
 ---
- 
+
 ## 🔢 Story Points
- 
-<!-- Choose a value: 1, 2, 3, 5, 8, 13, etc. -->
+
+<!-- Estimate effort: 1, 2, 3, 5, 8, 13, etc. -->
 Story Points: `N`
- 
+
 ---
- 
-## 🔗 Related Issues / Dependencies
- 
-- Depends on: #123
-- Related to: #456
- 
+
+## 🔗 Related Issues
+
+- Affects: #123
+- Possibly caused by: #456
+
 ---
- 
+
 ## 📎 Additional Notes
- 
-<!-- Any extra context, screenshots, designs, etc. -->
- 
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+<!-- Any workarounds, affected customers, or priority notes -->
